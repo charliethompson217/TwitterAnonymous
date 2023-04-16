@@ -1,4 +1,4 @@
 # TwitterAnonymous
 
-@twiterapipython
+https://twitter.com/twiterapipython    
 http://twiterapipython.com

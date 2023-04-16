@@ -11,7 +11,7 @@ function App() {
   async function sendTweet() {
     try {
       const data = tweetRef.current.value;
-      const response = await API.post('legitLawnCareAPI', '/accounts/1', { body: data });
+      const response = await API.post('********', '*********', { body: data });
       console.log(response);
     } catch (error) {
       console.log('Error fetching data: ', error);
